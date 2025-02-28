@@ -1,5 +1,5 @@
 
-# MyFirstAppQuarkus
+# MyFirstAppQuarkuss
 
 This project uses **Quarkus**, the Supersonic Subatomic Java Framework, designed for high-performance Java applications with minimal resource usage during the ***63-51 Emerging Technologies*** course at **Haute École de Gestion (HEG)**
 
