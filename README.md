@@ -108,6 +108,6 @@ docker run -i --rm -p 8080:8080 myfirstappoquarkus-jvm:myfirstappoquarkus-1.0.0-
 This project is licensed under the *Creative Commons Attribution-ShareAlike* (CC BY-SA) license.
 
 ## Author
-Project created by **Daniel Garcia** as part of the course ***63-51 Emerging Technologies*** at **Haute École de Gestion (HEG)** during the Spring semester of 2025*
+Project created by **Daniel Garcia** as part of the course ***63-51 Emerging Technologies*** at **Haute École de Gestion (HEG)** during the Spring semester of 2025
 
 
